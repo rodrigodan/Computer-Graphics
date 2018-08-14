@@ -19,6 +19,10 @@ Required: Toolkit: OpenGL | Free-Glut | G++
 
 	Rasterized Rotated colour triangle using OpenGl.
 
+#### cg_framework:
+
+	Framework to simulate the graphic processing on computer memory and used to simulate and draw some primitives.
+
 ## Contributors
 
 * Rodrigo Gonçalves Daniel ([RodrigoGonçalvesDaniel](https://github.com/rodrigogoncalves123/)) rodrigodaniel@cc.ci.ufpb.br
